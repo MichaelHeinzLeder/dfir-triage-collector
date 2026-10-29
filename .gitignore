@@ -1,0 +1,18 @@
+# Compiled binaries
+bin/
+dfir-triage
+dfir-triage-*
+*.exe
+
+# Triage output reports
+triage_*.json
+
+# Go build/test artifacts
+*.test
+*.out
+coverage.txt
+
+# OS / IDE files
+.DS_Store
+.idea/
+.vscode/
